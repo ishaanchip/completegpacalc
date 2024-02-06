@@ -165,9 +165,10 @@ cursor:pointer;
   display:flex;
   flex-wrap: wrap;
   justify-content:space-between;
-  margin-top:7%;
+  margin-top:5%;
   padding-left:12%;
   padding-right:12%;
+  margin-bottom:2%;
 }
 
 
@@ -194,12 +195,13 @@ cursor:pointer;
   font-size:3vh;
   position:relative;
   padding-top:5%;
-  padding-left: 2%;
-  padding-right: 2%;
+  padding-left: 1%;
+  padding-right: 1%;
   font-family: 'Cabin', sans-serif;
   margin-right:5%;
   min-width: 10rem;
   margin-top: 3%;
+  
 }
 
 .add-course-box span{
@@ -300,7 +302,7 @@ select{
 .class-box{
   text-align:center;
   background-color:whitesmoke;
-  width:20rem;
+  width:15rem;
   height:25rem;
   border-radius:2%;
   position:relative;
@@ -366,10 +368,10 @@ select{
 .gpa-box{
   text-align:center;
   background-color:whitesmoke;
-  width:20rem;
-  height:18rem;
+  width:15rem;
+  height:15rem;
   border-radius:5%;
-  margin-top:5%;
+  margin-top:7%;
   font-size:4vh;
   padding:3%;
   font-family: 'Roboto Slab', serif;
