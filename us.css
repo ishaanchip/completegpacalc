@@ -23,7 +23,7 @@
     
   }
   header h1{
-  font-size:2rem;
+  font-size:6vh;
   }
   ul{
   display:flex;
@@ -32,7 +32,7 @@
   display:inline-block;
   padding: 0 30px;
   transition:0.4s;
-  font-size:2.5vh;
+  font-size:4.5vh;
   text-decoration: none;
   color:white;
   }
